@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=F7A73A&height=40&lines=%F0%9F%91%8B+Hi!+Welcome+to+my+github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=F7A73A&height=40&lines=%F0%9F%91%8B+Hi!+Welcome+to+my+github!)](https://git.io/typing-svg)
 ```swift
 struct Human: iOS Developer{
 
