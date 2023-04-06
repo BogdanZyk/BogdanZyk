@@ -5,9 +5,9 @@
 ### aboutMe.swift:
 
 ```swift
-struct Human: iOS Developer{
+struct Human: iOSDeveloper{
 
-    let fullName = "Bogdan Zykov"
+    let name = "Bogdan"
     var age = 26
 
     var stack = [
@@ -15,7 +15,7 @@ struct Human: iOS Developer{
     "Firebase", "RestAPI", "Apollo",
     "XCTests", "MVVM", "Alamofire",
     "Alamofire", "HealfKit", "WidgetKit",
-    "AVFoundation", "AVkit", "MapKit",
+    "AVFoundation", "AVkit", "MapKit"
     ]
 
     var contacts = [
