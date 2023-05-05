@@ -13,9 +13,9 @@ struct Human: iOSDeveloper{
     var stack = [
     "SwiftUI", "Combine", "Core Data",
     "Firebase", "RestAPI", "Apollo",
-    "XCTests", "MVVM", "Alamofire",
+    "XCTests", "MVVM", "ARKit",
     "Alamofire", "HealfKit", "WidgetKit",
-    "AVFoundation", "AVkit", "MapKit"
+    "AVFoundation", "AVKit", "MapKit"
     ]
 
     var contacts = [
