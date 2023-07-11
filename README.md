@@ -2,30 +2,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=F7A73A&height=40&lines=Welcome+to+my+gitHub+page!)](https://git.io/typing-svg)
 
 
-### aboutMe.swift:
+I am an iOS developer with 2 years of experience.
+I write apps on iOS, iPadOS, macOS, watchOS.
 
-```swift
-struct Human: iOSDeveloper{
+### My stack ⚒️:
+- SwiftUI, MVVM, Combine, 
+- Firebase, RestAPI, Apollo
+- XCTests, Core Data, ARKit
+- Alamofire, HealfKit, WidgetKit,
+- AVFoundation, AVKit, MapKit
+- OneSignal, Revenuecat, PassKit
+  
 
-    let name = "Bogdan"
-    var age = 26
+### Contacts📱:
+- @BogdanZyk
+- zykbog@gmail.com
 
-    var stack = [
-    "SwiftUI", "Combine", "Core Data",
-    "Firebase", "RestAPI", "Apollo",
-    "XCTests", "MVVM", "ARKit",
-    "Alamofire", "HealfKit", "WidgetKit",
-    "AVFoundation", "AVKit", "MapKit"
-    ]
-
-    var contacts = [
-    // telegram
-    "@BogdanZyk",
-    // email
-    "zykbog@gmail.com"
-   ]  
-}
-```
 
 ### Programing Languages👾
 
