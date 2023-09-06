@@ -3,7 +3,9 @@
 
 
 I am an iOS developer with 2 years of experience.
+
 Experience in writing applications for iOS, iPadOS, macOS, watchOS.
+
 Now mostly writing apps for iOS 14+
 
 In my spare time I do small pet projects that you can check out on my repositories page :)
