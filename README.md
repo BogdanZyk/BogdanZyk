@@ -1,21 +1,32 @@
-## Hey👋  I'm Bogdan
+## Hey👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=F7A73A&height=40&lines=Welcome+to+my+gitHub+page!)](https://git.io/typing-svg)
 
 
 I am an iOS developer with 2 years of experience.
-I write apps on iOS, iPadOS, macOS, watchOS.
+Experience in writing applications for iOS, iPadOS, macOS, watchOS.
+Now mostly writing apps for iOS 14+
 
-### My stack ⚒️:
-- SwiftUI, MVVM, Combine, 
-- Firebase, RestAPI, Apollo
-- XCTests, Core Data, ARKit
-- Alamofire, HealfKit, WidgetKit,
-- AVFoundation, AVKit, MapKit
+In my spare time I do small pet projects that you can check out on my repositories page :)
+
+## My skills ⚒️:
+
+- SwiftUI, UIKit, Combine
+- MVVM, MVP, MVVM+Coordinator
+- SOLID, DRY, KISS
+- XCTests, Core Data, UserDefaults, UserNotifications
+- URLSession, Apollo GraphQL, RESTful API, JSON
+- Foundation, AVFoundation, AVKit, MapKit, CoreLocation, 
+- Async/Await, GCD, PhotosUI, FileManager, 
+- FacebookCore, GoogleSDK, AuthenticationServices
+- XCode, SPM, CocoaPods, Fastlane
 - OneSignal, Revenuecat, PassKit
-  
+- ARKit, SceneKit, RealityKit
+- Git, GitHub, GitLab
+- Figma, Notion
+
 
 ### Contacts📱:
-- @BogdanZyk
+- [@BogdanZyk](https://telegram.me/BogdanZyk)
 - zykbog@gmail.com
 
 
