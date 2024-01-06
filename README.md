@@ -16,7 +16,7 @@ In my spare time I do small pet projects that you can check out on my repositori
 - MVVM, MVP, MVVM+Coordinator
 - SOLID, DRY, KISS
 - XCTests, Core Data, UserDefaults, UserNotifications
-- URLSession, Apollo GraphQL, RESTful API, JSON
+- URLSession, Apollo GraphQL, RESTfull API, JSON
 - Foundation, AVFoundation, AVKit, MapKit, CoreLocation, 
 - Async/Await, GCD, PhotosUI, FileManager, 
 - FacebookCore, GoogleSDK, AuthenticationServices
@@ -27,7 +27,7 @@ In my spare time I do small pet projects that you can check out on my repositori
 - Figma, Notion
 
 
-### Contacts📱:
+### Connect with me 📱:
 - [@BogdanZyk](https://telegram.me/BogdanZyk)
 - zykbog@gmail.com
 
@@ -52,3 +52,5 @@ In my spare time I do small pet projects that you can check out on my repositori
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+![blue](https://komarev.com/ghpvc/?username=BogdanZyk&color=green)
